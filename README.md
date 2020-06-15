@@ -1,2 +1,2 @@
 # website-jsf
-Um website pessoal desenvolvido a partir do JavaServer Faces (JSF)
+:computer: Um website pessoal desenvolvido a partir do JavaServer Faces (JSF)
